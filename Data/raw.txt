@@ -1,0 +1,2 @@
+"message": "emoji 😀😁😇😊😡🐧🌎🌲🦅 <br>this is a line break with br  <br> this text is 🔥this \"text\" is firethis \"text\" is fire this \text\\ is fire this \\text\\ is fire this text is fire bonus ëáôìç",
+  "polish_char": "ćęłńóśźż"
