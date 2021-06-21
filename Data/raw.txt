@@ -1,1 +1,7 @@
-this text is 🔥 this "text" is fire this \"text\" is fire this \text\ is fire this \\text\\ is fire this text is fire bonus ëáôìç
+this text is 🔥
+this "text" is fire 
+this \"text\" is fire 
+this \text\ is fire 
+this \\text\\ is fire 
+this text is fire 
+bonus ëáôìç
