@@ -1,2 +1,3 @@
 links :
 https://testrestapi001.github.io/testRestapi001.io/Data/message2.json
+https://testrestapi001.github.io/testRestapi001.io/Data/books.xml
